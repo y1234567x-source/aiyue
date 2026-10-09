@@ -1,0 +1,6 @@
+{
+  "name": "爱阅志愿者小程序原型",
+  "description": "爱阅基金会志愿者小程序原型与交互逻辑演示，展示首页架构、跳转链路、活动回顾与数据统计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
